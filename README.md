@@ -1,6 +1,4 @@
-## Mening maqsadim
-
-Kelajakda kuchli dasturchi bo‘lish va yangi texnologiyalarni o‘rganish.# Men haqimda
+# Men haqimda
 
 ## Mening qiziqishlarim
 
@@ -15,3 +13,10 @@ Salom! Men o‘quvchiman.
 
 Mening sevimli platformam: [GitHub](https://github.com)
 
+## Mening maqsadim
+
+Kelajakda kuchli dasturchi bo‘lish va yangi texnologiyalarni o‘rganish.
+
+## Xulosa
+
+Men doimo yangi bilimlarni o‘rganishga tayyorman!
