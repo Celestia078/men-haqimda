@@ -1,4 +1,6 @@
-# Men haqimda
+## Mening maqsadim
+
+Kelajakda kuchli dasturchi bo‘lish va yangi texnologiyalarni o‘rganish.# Men haqimda
 
 ## Mening qiziqishlarim
 
